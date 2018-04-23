@@ -139,75 +139,72 @@ For the first image, the model is relatively sure that this is a Speed limit (30
 Traffic Sign: Speed limit (30km/h)
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.Speed limit (30km/h)                                        0.999995 
-1.Roundabout mandatory                                        0.000004 
-2.Keep right                                                  0.000000 
-3.Speed limit (50km/h)                                        0.000000 
-4.Go straight or left                                         0.000000 
-=======================================================================
+|  Prediction                                       |       Probabilities|
+|----------------------------------------------------|-------------------|
+|0.Speed limit (30km/h)                              |          0.999995 |
+|1.Roundabout mandatory                              |          0.000004 |
+|2.Keep right                                       |           0.000000 |
+|3.Speed limit (50km/h)                             |           0.000000 |
+|4.Go straight or left                              |           0.000000 |
+
 
 For the second image to the sixth image result :
 Traffic Sign: General caution
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.General caution                                             0.999984 
-1.Traffic signals                                             0.000016 
-2.Right-of-way at the next intersection                       0.000000 
-3.Pedestrians                                                 0.000000 
-4.Road work                                                   0.000000 
-=======================================================================
+|  Prediction                                    |   Probabilities      |
+|------------------------------------------------|----------------------|
+|0.General caution                               |              0.999984 |
+|1.Traffic signals                               |              0.000016 |
+|2.Right-of-way at the next intersection         |              0.000000 |
+|3.Pedestrians                                   |              0.000000 |
+|4.Road work                                     |              0.000000 |
+
 
 Traffic Sign: Stop
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.Stop                                                        0.936424 
-1.Speed limit (30km/h)                                        0.058781 
-2.Road work                                                   0.003898 
-3.Go straight or right                                        0.000499 
-4.Speed limit (60km/h)                                        0.000194 
-=======================================================================
+|  Prediction                                     |  Probabilities      |
+|-------------------------------------------------|---------------------|
+|0.Stop                                           |             0.936424 |
+|1.Speed limit (30km/h)                           |             0.058781 |
+|2.Road work                                      |             0.003898 |
+|3.Go straight or right                           |             0.000499 |
+|4.Speed limit (60km/h)                           |             0.000194 |
 
 Traffic Sign: Bumpy road
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.Bumpy road                                                  0.812383 
-1.Bicycles crossing                                           0.169315 
-2.Road work                                                   0.014031 
-3.Children crossing                                           0.002408 
-4.Keep left                                                   0.001325 
-=======================================================================
+|  Prediction                                      |        Probabilities|
+|---------------------------------------------------|--------------------|
+|0.Bumpy road                                       |           0.812383 |
+|1.Bicycles crossing                                |           0.169315 |
+|2.Road work                                        |           0.014031 |
+|3.Children crossing                                |           0.002408 |
+|4.Keep left                                        |           0.001325| 
+
 
 Traffic Sign: Speed limit (60km/h)
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.Speed limit (80km/h)                                        0.306110 
-1.Speed limit (70km/h)                                        0.285769 
-2.Speed limit (50km/h)                                        0.154573 
-3.Speed limit (120km/h)                                       0.046861 
-4.Speed limit (30km/h)                                        0.044978 
-=======================================================================
+|  Prediction                                        |      Probabilities|
+|-----------------------------------------------------|------------------|
+|0.Speed limit (80km/h)                               |         0.306110 |
+|1.Speed limit (70km/h)                               |         0.285769 |
+|2.Speed limit (50km/h)                               |         0.154573 |
+|3.Speed limit (120km/h)                              |         0.046861 |
+|4.Speed limit (30km/h)                               |         0.044978| 
 
 Traffic Sign: Go straight or left
 Top 5 probabilities:
 
-  Prediction                                              Probabilities
------------------------------------------------------------------------
-0.Go straight or left                                         0.999860 
-1.Roundabout mandatory                                        0.000078 
-2.Traffic signals                                             0.000038 
-3.Speed limit (30km/h)                                        0.000017 
-4.Keep left                                                   0.000004 
-=======================================================================
+|  Prediction                                          |    Probabilities|
+|------------------------------------------------------|-----------------|
+|0.Go straight or left                                 |        0.999860 |
+|1.Roundabout mandatory                                 |       0.000078 |
+|2.Traffic signals                                      |       0.000038 |
+|3.Speed limit (30km/h)                                 |       0.000017 |
+|4.Keep left                                            |       0.000004 |
 
 
 
